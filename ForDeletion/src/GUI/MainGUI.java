@@ -39,4 +39,5 @@ public class MainGUI extends JFrame {
 		setContentPane(contentPane);
 	}
 
+	
 }
